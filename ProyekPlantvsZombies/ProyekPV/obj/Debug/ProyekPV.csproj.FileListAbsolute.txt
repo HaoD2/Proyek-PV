@@ -1,0 +1,12 @@
+C:\Users\Tan\Desktop\Semester 3\Proyek\PV\ProyekPlantvsZombies\ProyekPV\bin\Debug\ProyekPV.exe.config
+C:\Users\Tan\Desktop\Semester 3\Proyek\PV\ProyekPlantvsZombies\ProyekPV\bin\Debug\ProyekPV.exe
+C:\Users\Tan\Desktop\Semester 3\Proyek\PV\ProyekPlantvsZombies\ProyekPV\bin\Debug\ProyekPV.pdb
+C:\Users\Tan\Desktop\Semester 3\Proyek\PV\ProyekPlantvsZombies\ProyekPV\obj\Debug\ProyekPV.csprojAssemblyReference.cache
+C:\Users\Tan\Desktop\Semester 3\Proyek\PV\ProyekPlantvsZombies\ProyekPV\obj\Debug\ProyekPV.GameMenu.resources
+C:\Users\Tan\Desktop\Semester 3\Proyek\PV\ProyekPlantvsZombies\ProyekPV\obj\Debug\ProyekPV.inGame.resources
+C:\Users\Tan\Desktop\Semester 3\Proyek\PV\ProyekPlantvsZombies\ProyekPV\obj\Debug\ProyekPV.MyAccount.resources
+C:\Users\Tan\Desktop\Semester 3\Proyek\PV\ProyekPlantvsZombies\ProyekPV\obj\Debug\ProyekPV.Properties.Resources.resources
+C:\Users\Tan\Desktop\Semester 3\Proyek\PV\ProyekPlantvsZombies\ProyekPV\obj\Debug\ProyekPV.csproj.GenerateResource.cache
+C:\Users\Tan\Desktop\Semester 3\Proyek\PV\ProyekPlantvsZombies\ProyekPV\obj\Debug\ProyekPV.csproj.CoreCompileInputs.cache
+C:\Users\Tan\Desktop\Semester 3\Proyek\PV\ProyekPlantvsZombies\ProyekPV\obj\Debug\ProyekPV.exe
+C:\Users\Tan\Desktop\Semester 3\Proyek\PV\ProyekPlantvsZombies\ProyekPV\obj\Debug\ProyekPV.pdb
